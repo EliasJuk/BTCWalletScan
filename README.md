@@ -1,9 +1,12 @@
-<h1 align="center" style="border: none; margin: 10;">🪙 BTCWalletScan 🪙</h1>
-A Bitcoin address scanner that generates keys and checks balances using a Bitcoin Core node.
+<h1 align="center">
+    <img src="screenshot.png"/>
+</h1>
+
+#### 🪙 A Bitcoin address scanner that generates keys and checks balances using a Bitcoin Core node.
+
+<p>🔎 BTCBalanceScan is a Bitcoin wallet analysis tool that automatically generates random private keys, derives their corresponding public keys, converts them into valid Bitcoin addresses, and checks their balances directly on the blockchain.</p>
 
 ---
-BTCBalanceScan is a Bitcoin wallet analysis tool that automatically generates random private keys, derives their corresponding public keys, converts them into valid Bitcoin addresses, and checks their balances directly on the blockchain.
-
 
 ## **✅ Passo 1: Baixar Instalae e configurar o BitCoin Core**
 1. Instale o Bitcoincore.
