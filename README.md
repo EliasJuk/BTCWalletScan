@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="screenshot.png"/>
+    <img width="400px" style="border: none; margin: 0;" src="assets/capybara_2.png"/>
 </h1>
 
-#### 🪙 A Bitcoin address scanner that generates keys and checks balances using a Bitcoin Core node.
+### 🪙 A Bitcoin address scanner that generates keys and checks balances using a Bitcoin Core node.
 
 <p>🔎 BTCBalanceScan is a Bitcoin wallet analysis tool that automatically generates random private keys, derives their corresponding public keys, converts them into valid Bitcoin addresses, and checks their balances directly on the blockchain.</p>
 
